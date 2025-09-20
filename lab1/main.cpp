@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-    unsigned int number;
+    int number;
     cin >> number;
     cout << spell_number(number) << endl;
     return 0;

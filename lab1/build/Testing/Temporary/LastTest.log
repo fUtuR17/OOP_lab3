@@ -1,0 +1,37 @@
+Start testing: Sep 19 17:19 UTC
+----------------------------------------------------------
+1/1 Testing: lab1_tests
+1/1 Test: lab1_tests
+Command: "/workspaces/OOP/lab1/build/lab1_tests"
+Directory: /workspaces/OOP/lab1/build
+"lab1_tests" start time: Sep 19 17:19 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/OOP/lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 5 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 5 tests from Spelling
+[ RUN      ] Spelling.Zero
+[       OK ] Spelling.Zero (0 ms)
+[ RUN      ] Spelling.OutOfRange
+[       OK ] Spelling.OutOfRange (0 ms)
+[ RUN      ] Spelling.Thirty
+[       OK ] Spelling.Thirty (0 ms)
+[ RUN      ] Spelling.NinetyNine
+[       OK ] Spelling.NinetyNine (0 ms)
+[ RUN      ] Spelling.SeventyFour
+[       OK ] Spelling.SeventyFour (0 ms)
+[----------] 5 tests from Spelling (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"lab1_tests" end time: Sep 19 17:19 UTC
+"lab1_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 19 17:19 UTC

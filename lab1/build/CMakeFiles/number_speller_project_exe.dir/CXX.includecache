@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/number_speller.h
+string
+-
+unordered_map
+-
+
+/workspaces/OOP/lab1/main.cpp
+iostream
+-
+unordered_map
+-
+../include/number_speller.h
+/workspaces/OOP/include/number_speller.h
+

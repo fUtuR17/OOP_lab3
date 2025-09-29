@@ -26,7 +26,7 @@ string spell_number(int number)
         {80, "seksen"},
         {90, "doksan"}};
 
-    if (number > 99)
+    if ((number > 99) or (number < 0))
     {
         return "Число должно быть от 0 до 99";
     };

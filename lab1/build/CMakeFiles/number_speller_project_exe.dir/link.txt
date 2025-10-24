@@ -1,1 +1,0 @@
-/usr/bin/c++  -Werror=maybe-uninitialized CMakeFiles/number_speller_project_exe.dir/main.cpp.o -o number_speller_project_exe  libnumber_speller_project_lib.a 

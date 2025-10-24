@@ -1,2 +1,0 @@
-/usr/bin/ar qc libnumber_speller_project_lib.a CMakeFiles/number_speller_project_lib.dir/src/spell_number.cpp.o
-/usr/bin/ranlib libnumber_speller_project_lib.a

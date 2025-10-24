@@ -1,9 +1,0 @@
-├── CMakeLists.txt          # Файл конфигурации CMake
-├── main.cpp                # Основная программа
-├── include/
-│   └── number_speller.h    # Заголовочный файл с объявлениями функций
-├── src/
-│   └── spell_number.cpp    # Реализация функций
-├── test/
-│   └── tests.cpp         # Unit-тесты с использованием Google Test
-└── readme.md               # Данный файл

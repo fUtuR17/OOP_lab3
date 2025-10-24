@@ -1,1 +1,0 @@
-/usr/bin/c++  -Werror=maybe-uninitialized CMakeFiles/number_speller_project_tests.dir/test/tests.cpp.o -o number_speller_project_tests  libnumber_speller_project_lib.a lib/libgtest_main.a lib/libgtest.a -lpthread 
